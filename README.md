@@ -1,5 +1,9 @@
 ## Dev Finace$
 
+<p align="center">
+    <img src="./.github/maratona.png" alt="pagina web">
+</p>
+
 Dev-finace$ é uma aplicação web que tem como objetivo ajudar o Dev no controle de sua renda.
 
 ##  🚀 Projeto
